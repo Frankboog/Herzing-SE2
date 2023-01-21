@@ -1,5 +1,14 @@
 # Herzing-SE2
 
+## Description:
+
+
+## Team:
+Frank James
+
+## How To:
+Just run the program, the code does the rest.
+
 ## Start Day 1:
 ![](images/day1.PNG)
 
