@@ -6,6 +6,9 @@ The day is reduced to 12 seconds for simulation purposes. 24hrs = 24 seconds. Cu
 but for the sake of time is excluded from simulation. The images show events for days 1-3 and the last day. 
 The FSM runs for 7 simulated days and produces 5 random events everyday.
 
+The Flow is the randomly generated number between 0-2. The Status (1-4) is the result of the flow number. 
+I inclide the Flow and Status numbers on every Event Print-Out for testing purposes.
+
 ## Team:
 Frank James
 
