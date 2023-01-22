@@ -1,7 +1,10 @@
 # Herzing-SE2
 
 ## Description:
-
+The day is reduced to 12 seconds for simulation purposes. 24hrs = 24 seconds. Cut in half again for simulation to 12 seconds.
+5 events with a 2 second delay each = 10 seconds. There should be another 2 second delay at the end of each iteration, 
+but for the sake of time is excluded from simulation. The images show events for days 1-3 and the last day. 
+The FSM runs for 7 simulated days and produces 5 random events everyday.
 
 ## Team:
 Frank James
