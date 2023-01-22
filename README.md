@@ -9,6 +9,8 @@ The FSM runs for 7 simulated days and produces 5 random events everyday.
 The Flow is the randomly generated number between 0-2. The Status (1-4) is the result of the flow number. 
 I inclide the Flow and Status numbers on every Event Print-Out for testing purposes.
 
+An old professor (from OOPII) once told me he would like to see the thread created inside of the object. Nuff said.
+
 ## Team:
 Frank James
 
